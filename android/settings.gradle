@@ -1,3 +1,5 @@
 rootProject.name = 'ParttimeGardener'
+include ':react-native-firebase'
+project(':react-native-firebase').projectDir = new File(rootProject.projectDir, '../node_modules')
 
 include ':app'

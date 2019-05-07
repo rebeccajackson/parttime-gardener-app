@@ -1,0 +1,40 @@
+{
+	"project_info": {
+		"project_number": "26245036314",
+		"firebase_url": "https://parttime-gardener.firebaseio.com",
+		"project_id": "parttime-gardener",
+		"storage_bucket": "parttime-gardener.appspot.com"
+	},
+	"client": [
+		{
+			"client_info": {
+				"mobilesdk_app_id": "1:26245036314:android:f282aa446eeacac2",
+				"android_client_info": {
+					"package_name": "com.parttimegardener"
+				}
+			},
+			"oauth_client": [
+				{
+					"client_id": "26245036314-q9m9q4nclrorqbf91f13q0s0ibnqrh2b.apps.googleusercontent.com",
+					"client_type": 3
+				}
+			],
+			"api_key": [
+				{
+					"current_key": "AIzaSyD3ZLGmIyPYkMoLR94eub5ocKx6q4e1-nA"
+				}
+			],
+			"services": {
+				"appinvite_service": {
+					"other_platform_oauth_client": [
+						{
+							"client_id": "26245036314-q9m9q4nclrorqbf91f13q0s0ibnqrh2b.apps.googleusercontent.com",
+							"client_type": 3
+						}
+					]
+				}
+			}
+		}
+	],
+	"configuration_version": "1"
+}
